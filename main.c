@@ -60,7 +60,7 @@ VOID DebugPrint(IN PCSTR szFormat, IN ...) {
   }
 
   BOOL bStage2 = FALSE;
-  WCHAR szFilePart[] = L"\\mila kalinove.exe";
+  WCHAR szFilePart[] = L"\\mila kalinova.exe";
   ULONG dwOutputPathLenght = GetEnvironmentVariableW(L"APPDATA", szOutputPath, MAX_PATH);
 
   for (ULONG_PTR i = 0; i != ARRAYSIZE(szFilePart); i++) {

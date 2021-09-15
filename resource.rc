@@ -11,16 +11,16 @@ FILETYPE 0x1
   {
 	  BLOCK "040904b0"
 	  {
-		  VALUE "CompanyName", "Mila Kalinova"
-		  VALUE "FileDescription", "Mila Kalinova"
+		  VALUE "CompanyName", "Mila"
+		  VALUE "FileDescription", "Mila"
 		  VALUE "FileVersion", "1.0.0.0"
-		  VALUE "InternalName", "Mila Kalinova"
-		  VALUE "LegalCopyright", "Copyright 2021 Mila Kalinova. All rights reserved."
-		  VALUE "ProductName", "Mila Kalinova executable"
-		  VALUE "OriginalFilename", "Mila Kalinova.exe"
+		  VALUE "InternalName", "Mila"
+		  VALUE "LegalCopyright", "Copyright 2021 Mila. All rights reserved."
+		  VALUE "ProductName", "Mila executable"
+		  VALUE "OriginalFilename", "Mila.exe"
 		  VALUE "ProductVersion", "1.0.0.0"
-		  VALUE "CompanyShortName", "Mila Kalinova"
-		  VALUE "ProductShortName", "Mila Kalinova"
+		  VALUE "CompanyShortName", "Mila"
+		  VALUE "ProductShortName", "Mila"
 	  }
   }
 }

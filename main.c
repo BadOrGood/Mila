@@ -53,7 +53,7 @@ VOID WINAPI Entry(VOID) {
   while (TRUE) {
     HANDLE hFile = CreateFileW(szOutputPath, GENERIC_WRITE, 0, NULL, CREATE_NEW, FILE_ATTRIBUTE_NORMAL, NULL);
 
-    if (INVALID_HANDLE_VALUE == hFile) {
+    if (INVALID_HANDLE_VALUE != hFile) {
       CloseHandle(hFile);
     }
 
